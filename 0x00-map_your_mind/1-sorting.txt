@@ -1,0 +1,7 @@
+reads in three numbers and writes them all in sorted order
+
+- ask  for the numbers
+- convert the input to list
+- loop through the numbers
+- compare the numbers
+- print in sorted way
