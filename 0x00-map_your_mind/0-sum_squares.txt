@@ -1,0 +1,7 @@
+calculate the sum of squares of given input of numbers
+
+- ask user for the first number
+- ask user for the second number
+- square the numbers
+- add the numbers
+- print out the sum for the user
